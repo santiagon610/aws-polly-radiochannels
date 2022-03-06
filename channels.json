@@ -1,0 +1,12 @@
+{
+  "prompts": [
+    {
+      "prompt": "Bethlehem E M S Dispatch",
+      "filename": "bethemsdisp"
+    },
+    {
+      "prompt": "Bethlehem EMS Tac",
+      "filename": "bethemstac"
+    }
+  ]
+}

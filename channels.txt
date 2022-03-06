@@ -1,0 +1,50 @@
+Bethlehem E M S Dispatch
+Bethlehem E M S Tac
+Bethlehem Fire Dispatch
+Bethlehem Fire Tac
+Bethlehem Police Dispatch
+County Wide
+Dispatch 1
+Dispatch 2
+East Police 1
+East Police 2
+Easton Police 1
+Easton Police 2
+Emergency Management
+Fire and E M S Dispatch
+Med 9
+North Police
+Ops 1
+Ops 2
+Regional Med
+Sheriffs Office
+South Police 1
+South Police 2
+Tac 1
+Tac 10
+Tac 12 Freemansburg
+Tac 2
+Tac 2 Alpha
+Tac 3
+Tac 4
+Tac 5
+Tac 6
+Tac 8
+Tac 9
+Talk About 1
+Talk About 2
+Talk About 3
+Township Private
+Township Public Works
+Township Secure
+Township Talk Around
+Ops 1, V R S 1
+Ops 2, V R S 2
+County Wide, V R S 3
+Tac 1, V R S 4
+Tac 2, V R S 5
+Tac 3, V R S 6
+Tac 4, V R S 7
+Tac 5, V R S 8
+Tac 6, V R S 9
+Open, V R S 10
