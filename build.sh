@@ -2,7 +2,7 @@
 
 set -ex
 
-SOURCE_FILE="${PWD}/test.txt"
+SOURCE_FILE="${PWD}/channels.txt"
 AWS_POLLY_FORMAT="ogg_vorbis"
 AWS_POLLY_EXTENSION="ogg"
 AWS_VOICE_ID="Joanna"
