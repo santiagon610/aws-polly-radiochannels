@@ -1,60 +1,21 @@
-Bethlehem Base 800
-Bethlehem E M S Dispatch
-Bethlehem E M S Tac
-Bethlehem Fire Dispatch
-Bethlehem Fire Tac
-Bethlehem Police Dispatch
-Constable Dispatch
-Constable Main
-Constable Tac
-College Call Boxes
-College Security
-College Maintenance
-County Wide
-Dispatch 1
-Dispatch 2
-East Police 1
-East Police 2
-Easton Police 1
-Easton Police 2
-Emergency Management
-Fire and E M S Dispatch
-Med 9
-North Police 1
-North Police 2
-Ops 1
-Ops 2
-Pager
-Regional Med
-Sheriffs Office
-South Police 1
-South Police 2
-Tac 1
-Tac 10
-Tac 12 Freemansburg
-Tac 2
-Tac 2 Alpha
-Tac 3
-Tac 4
-Tac 5
-Tac 6
-Tac 8
-Tac 9
-Talk About 1
-Talk About 2
-Talk About 3
-Township Private
-Township Public Works
-Township Secure
-Township Talk Around
-Township Talk Around, Digital
-Ops 1, V R S 1
-Ops 2, V R S 2
-County Wide, V R S 3
-Tac 1, V R S 4
-Tac 2, V R S 5
-Tac 3, V R S 6
-Tac 4, V R S 7
-Tac 5, V R S 8
-Tac 6, V R S 9
-Open, V R S 10
+Inter Op Zone
+UHF Call 40
+UHF Call 40 Direct
+UHF Tac 41
+UHF Tac 41 Direct
+UHF Tac 42
+UHF Tac 42 Direct
+UHF Tac 43
+UHF Tac 43 Direct
+UHF Tac 41 Berks Zero 1
+UHF Tac 43 Berks Zero 1
+UHF Tac 41 Berks Zero 2
+UHF Tac 42 Berks Zero 2
+UHF Tac 41 Bucks 40
+UHF Tac 42 Bucks 40
+UHF Tac 41 Monroe Zero 3
+UHF Tac 42 Monroe Zero 3
+UHF Tac 41 Montgomery Zero 1
+UHF Tac 42 Montgomery Zero 1
+UHF Tac 41 Philadelphia Zero 2
+UHF Tac 42 Philadelphia Zero 2
