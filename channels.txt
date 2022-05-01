@@ -15,7 +15,5 @@ UHF Tac 41 Bucks 40
 UHF Tac 42 Bucks 40
 UHF Tac 41 Monroe Zero 3
 UHF Tac 42 Monroe Zero 3
-UHF Tac 41 Montgomery Zero 1
-UHF Tac 42 Montgomery Zero 1
 UHF Tac 41 Philadelphia Zero 2
 UHF Tac 42 Philadelphia Zero 2
