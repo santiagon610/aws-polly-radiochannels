@@ -1,0 +1,4 @@
+output/**
+**/*.old
+requirements.txt
+Containerfile

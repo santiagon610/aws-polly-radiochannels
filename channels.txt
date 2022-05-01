@@ -1,0 +1,19 @@
+Inter Op Zone
+UHF Call 40
+UHF Call 40 Direct
+UHF Tac 41
+UHF Tac 41 Direct
+UHF Tac 42
+UHF Tac 42 Direct
+UHF Tac 43
+UHF Tac 43 Direct
+UHF Tac 41 Berks Zero 1
+UHF Tac 43 Berks Zero 1
+UHF Tac 41 Berks Zero 2
+UHF Tac 42 Berks Zero 2
+UHF Tac 41 Bucks 40
+UHF Tac 42 Bucks 40
+UHF Tac 41 Monroe Zero 3
+UHF Tac 42 Monroe Zero 3
+UHF Tac 41 Philadelphia Zero 2
+UHF Tac 42 Philadelphia Zero 2

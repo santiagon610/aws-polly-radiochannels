@@ -1,0 +1,67 @@
+Bethlehem Base 800
+Bethlehem E M S Dispatch
+Bethlehem E M S Tac
+Bethlehem Fire Dispatch
+Bethlehem Fire Tac
+Bethlehem Police Dispatch
+College Call Boxes
+College Maintenance
+College Security
+College Zone
+Constable Dispatch
+Constable Main
+Constable Tac
+County Wide
+County Wide, V R S 3
+Dispatch 1
+Dispatch 2
+East Police 1
+East Police 2
+Easton Police 1
+Easton Police 2
+Emergency Management
+Fire and E M S Dispatch
+Fire Zone
+Med 9
+North Police 1
+North Police 2
+Open, V R S 10
+Ops 1
+Ops 1, V R S 1
+Ops 2
+Ops 2, V R S 2
+Pager
+Police Zone
+Regional Med
+Scan Off
+Scan On
+Sheriffs Office
+South Police 1
+South Police 2
+Tac 1
+Tac 1, V R S 4
+Tac 10
+Tac 12 Freemansburg
+Tac 2
+Tac 2 Alpha
+Tac 2, V R S 5
+Tac 3
+Tac 3, V R S 6
+Tac 4
+Tac 4, V R S 7
+Tac 5
+Tac 5, V R S 8
+Tac 6
+Tac 6, V R S 9
+Tac 8
+Tac 9
+Talk About 1
+Talk About 2
+Talk About 3
+Talk Around Off
+Talk Around On
+Township Private
+Township Public Works
+Township Secure
+Township Talk Around
+Township Talk Around, Digital
