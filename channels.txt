@@ -1,8 +1,15 @@
+Bethlehem Base 800
 Bethlehem E M S Dispatch
 Bethlehem E M S Tac
 Bethlehem Fire Dispatch
 Bethlehem Fire Tac
 Bethlehem Police Dispatch
+Constable Dispatch
+Constable Main
+Constable Tac
+College Call Boxes
+College Security
+College Maintenance
 County Wide
 Dispatch 1
 Dispatch 2
@@ -13,9 +20,11 @@ Easton Police 2
 Emergency Management
 Fire and E M S Dispatch
 Med 9
-North Police
+North Police 1
+North Police 2
 Ops 1
 Ops 2
+Pager
 Regional Med
 Sheriffs Office
 South Police 1
@@ -38,6 +47,7 @@ Township Private
 Township Public Works
 Township Secure
 Township Talk Around
+Township Talk Around, Digital
 Ops 1, V R S 1
 Ops 2, V R S 2
 County Wide, V R S 3
